@@ -2,7 +2,6 @@
 
 ## Hi there 👋
 ### Welcome to my Github profile! 
-![SoExcited~GIF](https://github.com/zaicodes/zaicodes/assets/122837340/2dc7dba5-1e7f-4bde-9f3c-f34ba37b835f)
 
 This is the landing page for my GitHub account. Feel free to explore my projects and contributions.
 
@@ -33,7 +32,7 @@ and [more](https://www.hyperiondev.com/portfolio/146999/) !
 
 📫 How to reach me:  
  [My LinkedIn](https://www.linkedin.com/in/zainab-ismail-dev/)
- 👯 I'd love to collaborate on projects with anyone
+ 👯 Let's collab!
 
 ## Happy Coding! ❤️
 
