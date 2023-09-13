@@ -9,29 +9,31 @@ This is the landing page for my GitHub account. Feel free to explore my projects
 ## About Me 😁
 
 I'm a passionate junior developer who loves to write code and explore new technologies. 
-My areas of interest include web development, machine learning, data visualization.
+My areas of interest include web development, python, machine learning and data visualization.
 
-I've only finished the HyperionDev Bootcamp in Data Science, and as part of this program I expolored the following skills: 
+I've completed data science bootcamp with HyperionDev where I expolored the following skills: 
 Various analysis tools, such as Python, Data Visualization, Machine Learning, Natural Language Processing (NLP)
 
-I also have some background in using HTML, CSS and Figma!
+I’m currently doing a full-stack web development course with ⭕ Code Institute.
 
-## Projects 📝
-
+## Some of my latest projects📝:
+- [Beyond Photos Photography](https://github.com/zaicodes/beyond-photos-photography)
+- [Whack-a-Mole](https://github.com/zaicodes/whack-a-mole)
 - [Film Recommendation using Python](https://github.com/zaicodes/film-recommendation)
 - [ATM Project using C#](https://github.com/zaicodes/ATM-project)
-- [Simple business card using HTML, CSS](https://github.com/zaicodes/business-card/tree/main)
 
 and [more](https://www.hyperiondev.com/portfolio/146999/) ! 
 
-- 😄 Pronouns: She/Her
-- 🔭 I’m currently working on my first portfolio website!
-- 🌱 I’m currently learning Full-stack development course with ⭕ Code Institute.
-- 👯 I’m looking to collaborate on mini- projects with anyone.
-- 📫 How to reach me:  
+😄 Fun facts about me:
+- 🔭 I worked in healthcare before shifting to tech!
+- 🌱 I'm vegeterian, and was once vegan for 4 years! 
+- ☕ I enjoy caffeine while coding (especially coffee!) drinking 2-4 cups a day!
+- ⚡ I speak 3 languages fluently, and 3 other ones at beginner-intermediate level! 🤖
+
+
+📫 How to reach me:  
  [My LinkedIn](https://www.linkedin.com/in/zainab-ismail-dev/)
- 
-- ⚡ Fun fact: I speak 3 languages fluently, and can speak 3 other ones beginner level! 🤖
+ 👯 I'd love to collaborate on projects with anyone
 
 ## Happy Coding! ❤️
 
