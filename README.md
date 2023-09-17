@@ -1,4 +1,4 @@
-![My Image](CodingGirl-PhotoRoom.png)
+![My Image](https://github.com/zaicodes/zaicodes/blob/main/Beige%20Feminine%20Personal%20LinkedIn%20Banner.png)
 
 ## Hi there 👋
 ### Welcome to my Github profile! 
@@ -23,14 +23,19 @@ I’m currently doing a full-stack web development course with ⭕ Code Institut
 
 and [more](https://www.hyperiondev.com/portfolio/146999/) ! 
 
-😄 Fun facts about me:
+##😄 Fun facts about me:
 - 🔭 I worked in healthcare before shifting to tech!
 - 🌱 I'm vegeterian, and was once vegan for 4 years! 
 - ☕ I enjoy caffeine while coding (especially coffee!) drinking 2-4 cups a day!
 - ⚡ I speak 3 languages fluently, and 3 other ones at beginner-intermediate level! 🤖
 
+## Languages, Frameworks and Tools:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaicodes&hide_progress=true)
 
-📫 How to reach me:  
+## Stats:
+![Zainab's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaicodes&show_icons=true&theme=synthwave)
+
+## 📫 How to reach me:  
  [My LinkedIn](https://www.linkedin.com/in/zainab-ismail-dev/)
  👯 Let's collab!
 
