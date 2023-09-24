@@ -23,13 +23,26 @@ I’m currently doing a full-stack web development course with ⭕ Code Institut
 
 and [more](https://www.hyperiondev.com/portfolio/146999/) ! 
 
-##😄 Fun facts about me:
+## 😄 Fun facts about me:
 - 🔭 I worked in healthcare before shifting to tech!
 - 🌱 I'm vegeterian, and was once vegan for 4 years! 
 - ☕ I enjoy caffeine while coding (especially coffee!) drinking 2-4 cups a day!
 - ⚡ I speak 3 languages fluently, and 3 other ones at beginner-intermediate level! 🤖
 
 ## Languages, Frameworks and Tools:
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=flat-square&logo=jest&logoColor=white)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaicodes&hide_progress=true)
 
 ## Stats:
