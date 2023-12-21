@@ -47,9 +47,7 @@ and [more](https://www.hyperiondev.com/portfolio/146999/) !
 
 ## Hackathons that I've participated in:
 
-<a href="https://eu.badgr.com/public/assertions/2Yd3n7DJQF6esTu27bkzOA?identity="><img width="120px" height="120px" src="https://media.eu.badgr.com/uploads/badges/assertion-2Yd3n7DJQF6esTu27bkzOA.png"></a>
-
-<a href="https://eu.badgr.com/public/assertions/2Yd3n7DJQF6esTu27bkzOA?identity="><img width="120px" height="120px" src="https://media.eu.badgr.com/uploads/badges/assertion-2Yd3n7DJQF6esTu27bkzOA.png"></a>
+<a href="https://eu.badgr.com/public/assertions/2Yd3n7DJQF6esTu27bkzOA?identity="><img width="120px" height="120px" src="https://media.eu.badgr.com/uploads/badges/assertion-2Yd3n7DJQF6esTu27bkzOA.png"></a> <a href="https://eu.badgr.com/public/assertions/0Mq3hgckRzyflGrFunnpCw?identity="><img width="120px" height="120px" src="https://media.eu.badgr.com/uploads/badges/assertion-2Yd3n7DJQF6esTu27bkzOA.png"></a>
 
 ## Stats:
 ![Zainab's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaicodes&show_icons=true&theme=synthwave)
