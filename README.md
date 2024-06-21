@@ -13,21 +13,15 @@ My areas of interest include web development, python, machine learning and data 
 I've completed data science bootcamp with HyperionDev where I expolored the following skills: 
 Various analysis tools, such as Python, Data Visualization, Machine Learning, Natural Language Processing (NLP)
 
-I’m currently doing a full-stack web development course with ⭕ Code Institute.
+I've also completed Level 5 in Web Development course with ⭕ Code Institute X University Centre Peterborough.
 
 ## Some of my latest projects📝:
 - [Beyond Photos Photography](https://github.com/zaicodes/beyond-photos-photography)
 - [Whack-a-Mole](https://github.com/zaicodes/whack-a-mole)
-- [Film Recommendation using Python](https://github.com/zaicodes/film-recommendation)
-- [ATM Project using C#](https://github.com/zaicodes/ATM-project)
+- [Blingz Accessories](https://github.com/zaicodes/blingz-accessories)
+- [Cushion Haven](https://github.com/zaicodes/CushionHaven)
 
 and [more](https://www.hyperiondev.com/portfolio/146999/) ! 
-
-## 😄 Fun facts about me:
-- 🔭 I worked in healthcare before shifting to tech!
-- 🌱 I'm vegeterian, and was once vegan for 4 years! 
-- ☕ I enjoy caffeine while coding (especially coffee!) drinking 2-4 cups a day!
-- ⚡ I speak 3 languages fluently, and 3 other ones at beginner-intermediate level! 🤖
 
 ## Languages, Frameworks and Tools:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -48,7 +42,6 @@ and [more](https://www.hyperiondev.com/portfolio/146999/) !
 ## Hackathons that I've participated in:
 
 <a href="https://eu.badgr.com/public/assertions/2Yd3n7DJQF6esTu27bkzOA?identity="><img width="120px" height="120px" src="https://media.eu.badgr.com/uploads/badges/assertion-2Yd3n7DJQF6esTu27bkzOA.png"></a> <a href="https://eu.badgr.com/public/assertions/0Mq3hgckRzyflGrFunnpCw?identity="><img width="120px" height="120px" src="https://media.eu.badgr.com/uploads/badges/assertion-0Mq3hgckRzyflGrFunnpCw.png"></a>
-
 
 
 
